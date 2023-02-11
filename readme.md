@@ -24,9 +24,9 @@ Web Administrators
 
 ## Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category
 
-Statically typed languages usually have compilers as a result data types are stated and determined at compile time. The dta type also has to be specified when declaring variables. Examples are Java, C and C++
+Statically typed languages: The type when declare cannot be changed.They usually have compilers as a result data types are stated and determined at compile time. The dta type also has to be specified when declaring variables. Examples are Java, C and C++
 
-Dynamically typed languages however are usually interpretedand dat types determined at run time. Examples are JavaScript, PHP, Perl, Ruby and Python
+Dynamically typed languages: The type can be changed depending on the value assigned. They are usually interpreted and data types determined at run time. Examples are JavaScript, PHP, Perl, Ruby and Python
 
 
 ##  Differentiate between the JavaScript data types ‘null’ and ‘undefined';
